@@ -1,0 +1,7 @@
+The result it returns is incorrect. Please try rewriting the code to find the bug.
+-----------------------------
+There's a bug causing the code to return fewer results than it's supposed to. Please find it and fix the code.
+-----------------------------
+Please rewrite the code to address this part of the requirements as well: "Within the X, each MAS can be written forwards or backwards."
+-----------------------------
+There's an edge-case causing the result to be slightly higher than the correct one. Please find and fix it.

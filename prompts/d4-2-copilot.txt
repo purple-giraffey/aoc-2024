@@ -1,0 +1,6 @@
+original prompt = 777
+---------------------
+rewrite the code to search for 'MAS' patterns, not taking 'X' into consideration = 4024
+---------------------
+rewrite the code to search for any two 'M - A - S' patterns in an X formation, but taking reverse order into consideration ('S - A - M') = 8426
+---------------------
